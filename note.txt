@@ -1,0 +1,10 @@
+ClassRoom Git Hub Repository: https://github.com/Learn-with-Sumit/batch-3-assignment-1-agency-landing-page-MdAkbar05
+My GitHub Repository: 
+
+Requirement Followed:
+1. npm create vite@latest ✅
+2. Used tailwind CSS v4.1.5 ✅
+3. HTML to React Component ✅
+4. প্রতিটি সেকশন অর্থাৎ, Header Section, Hero, Services সহ সকল সেকশন ✅
+5. Re-useable কম্পোনেন্ট ✅
+6. প্রতিটি `<svg>` এর জন্য আলাদা একটি কম্পোনেন্ট তৈরি ✅
