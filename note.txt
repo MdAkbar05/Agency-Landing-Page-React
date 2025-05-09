@@ -1,5 +1,6 @@
 ClassRoom Git Hub Repository: https://github.com/Learn-with-Sumit/batch-3-assignment-1-agency-landing-page-MdAkbar05
-My GitHub Repository: 
+My GitHub Repository: https://github.com/MdAkbar05/Agency-Landing-Page-React
+Live on Vercel: https://agency-landing-page-react-beta.vercel.app
 
 Requirement Followed:
 1. npm create vite@latest ✅
